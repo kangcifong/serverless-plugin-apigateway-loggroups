@@ -1,0 +1,22 @@
+{
+  "main": "src/index.js",
+  "name": "serverless-plugin-apigateway-loggroups",
+  "version": "1.0.0",
+  "description": "Plugin for the Serverless framework can customize ApiGateway logGroups Properties",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kangcifong/serverless-plugin-apigateway-loggroups.git"
+  },
+  "keywords": [
+    "serverless",
+    "aws",
+    "apigateway",
+    "logs"
+  ],
+  "author": "Kang Cifong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kangcifong/serverless-plugin-apigateway-loggroups/issues"
+  },
+  "homepage": "https://github.com/kangcifong/serverless-plugin-apigateway-loggroups#readme"
+}
