@@ -2,7 +2,7 @@
   "main": "src/index.js",
   "name": "serverless-plugin-apigateway-loggroups",
   "version": "1.0.0",
-  "description": "Plugin for the Serverless framework can customize ApiGateway logGroups Properties",
+  "description": "Plugin for the Serverless framework to customize ApiGateway logGroups Properties",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kangcifong/serverless-plugin-apigateway-loggroups.git"
