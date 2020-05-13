@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/kangcifong/serverless-plugin-apigateway-loggroups/issues"
   },
-  "homepage": "https://github.com/kangcifong/serverless-plugin-apigateway-loggroups#readme"
+  "homepage": "https://github.com/kangcifong/serverless-plugin-apigateway-loggroups#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
