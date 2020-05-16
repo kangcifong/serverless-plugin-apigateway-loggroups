@@ -3,6 +3,8 @@ https://www.serverless.com/blog/framework-release-v142/
 
 # serverless-plugin-apigateway-loggroups
 
+THIS WORKS ONLY FOR SLS PACKAGE STAGE!!
+
 Plugin for the Serverless framework that suppliments the APIGateway logGroup properties settings.
 
 The Serverless framework supports AWS APIGateway access log from 1.42.0, but there are some shortcomings:
